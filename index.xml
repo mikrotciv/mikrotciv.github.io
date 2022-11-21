@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mikrotciv</title>
-    <link>https://mikrotciv.github.io/</link>
+    <link>https://mikrotciv.com/</link>
     <description>Recent content on mikrotciv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Nov 2022 22:44:03 -0500</lastBuildDate><atom:link href="https://mikrotciv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 22:44:03 -0500</lastBuildDate><atom:link href="https://mikrotciv.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://mikrotciv.github.io/posts/2022/11/hello_world/</link>
+      <link>https://mikrotciv.com/posts/2022/11/hello_world/</link>
       <pubDate>Sun, 20 Nov 2022 22:44:03 -0500</pubDate>
       
-      <guid>https://mikrotciv.github.io/posts/2022/11/hello_world/</guid>
+      <guid>https://mikrotciv.com/posts/2022/11/hello_world/</guid>
       <description>
         
           
